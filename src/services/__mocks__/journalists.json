@@ -1,0 +1,376 @@
+[
+  {
+    "name": "Philipa Biggin",
+    "id": 1,
+    "isVerifiedByWizikey": false,
+    "imageUrl": "https://avatars.githubusercontent.com/u/150330",
+    "locations": [{ "id": 1, "name": "India" }],
+    "interests": [
+      { "id": 1, "name": "Tech" },
+      { "id": 2, "name": "FMCG" }
+    ],
+    "publications": [
+      { "id": 1, "name": "Hindustan Times" },
+      { "id": 2, "name": "Time of India" },
+      { "id": 3, "name": "The verge" }
+    ],
+    "wizikeyRating": 0
+  },
+  {
+    "name": "Nickey Absolom",
+    "id": 2,
+    "isVerifiedByWizikey": true,
+    "imageUrl": "https://avatars.githubusercontent.com/u/150330",
+    "locations": [{ "id": 1, "name": "India" }],
+    "interests": [
+      { "id": 4, "name": "Agritech" },
+      { "id": 7, "name": "Travel" },
+      { "id": 8, "name": "Aviation" }
+    ],
+    "publications": [
+      { "id": 2, "name": "Time of India" },
+      { "id": 3, "name": "The verge" },
+      { "id": 4, "name": "The Economist" }
+    ],
+    "wizikeyRating": 38.9
+  },
+  {
+    "name": "Rasla Pomfrey",
+    "id": 3,
+    "isVerifiedByWizikey": false,
+    "imageUrl": "https://avatars.githubusercontent.com/u/150330",
+    "locations": [{ "id": 3, "name": "USA" }],
+    "interests": [
+      { "id": 4, "name": "Agritech" },
+      { "id": 5, "name": "Fintech" },
+      { "id": 6, "name": "Politics" }
+    ],
+    "publications": [
+      { "id": 3, "name": "The verge" },
+      { "id": 7, "name": "Associate Press" }
+    ],
+    "wizikeyRating": 0
+  },
+  {
+    "name": "Marnia Childes",
+    "id": 4,
+    "isVerifiedByWizikey": true,
+    "imageUrl": "https://avatars.githubusercontent.com/u/150330",
+    "locations": [{ "id": 10, "name": "Mexico" }],
+    "interests": [
+      { "id": 8, "name": "Aviation" },
+      { "id": 9, "name": "Legal" },
+      { "id": 10, "name": "Finance" }
+    ],
+    "publications": [
+      { "id": 8, "name": "Wall Street Journal" },
+      { "id": 9, "name": "Financial Times" },
+      { "id": 10, "name": "Rolling Stones" }
+    ],
+    "wizikeyRating": 70.87
+  },
+  {
+    "name": "Kati Battman",
+    "id": 5,
+    "isVerifiedByWizikey": true,
+    "imageUrl": "https://avatars.githubusercontent.com/u/150330",
+    "locations": [
+      { "id": 2, "name": "Australia" },
+      { "id": 3, "name": "USA" }
+    ],
+    "interests": [
+      { "id": 1, "name": "Tech" },
+      { "id": 2, "name": "FMCG" },
+      { "id": 3, "name": "Consumer Tech" }
+    ],
+    "publications": [
+      { "id": 5, "name": "The Hindu" },
+      { "id": 6, "name": "The Washington Post" },
+      { "id": 7, "name": "Associate Press" }
+    ],
+    "wizikeyRating": 76.87
+  },
+  {
+    "name": "Frasier Lepper",
+    "id": 6,
+    "isVerifiedByWizikey": false,
+    "imageUrl": "https://avatars.githubusercontent.com/u/150330",
+    "locations": [{ "id": 1, "name": "India" }],
+    "interests": [
+      { "id": 1, "name": "Tech" },
+      { "id": 2, "name": "FMCG" }
+    ],
+    "publications": [
+      { "id": 7, "name": "Associate Press" },
+      { "id": 8, "name": "Wall Street Journal" },
+      { "id": 10, "name": "Rolling Stones" }
+    ],
+    "wizikeyRating": 0
+  },
+  {
+    "name": "Nertie Blague",
+    "id": 7,
+    "isVerifiedByWizikey": true,
+    "imageUrl": "https://avatars.githubusercontent.com/u/150330",
+    "locations": [{ "id": 1, "name": "India" }],
+    "interests": [
+      { "id": 1, "name": "Tech" },
+      { "id": 2, "name": "FMCG" },
+      { "id": 3, "name": "Consumer Tech" }
+    ],
+    "publications": [
+      { "id": 5, "name": "The Hindu" },
+      { "id": 6, "name": "The Washington Post" },
+      { "id": 10, "name": "Rolling Stones" }
+    ],
+    "wizikeyRating": 90.87
+  },
+  {
+    "name": "Isidoro Seville",
+    "id": 8,
+    "isVerifiedByWizikey": true,
+    "imageUrl": "https://avatars.githubusercontent.com/u/150330",
+    "locations": [{ "id": 5, "name": "Singapore" }],
+    "interests": [
+      { "id": 8, "name": "Aviation" },
+      { "id": 9, "name": "Legal" },
+      { "id": 10, "name": "Finance" }
+    ],
+    "publications": [
+      { "id": 8, "name": "Wall Street Journal" },
+      { "id": 10, "name": "Rolling Stones" }
+    ],
+    "wizikeyRating": 92.21
+  },
+  {
+    "name": "Emmet Sheffield",
+    "id": 9,
+    "isVerifiedByWizikey": true,
+    "imageUrl": "https://avatars.githubusercontent.com/u/150330",
+    "locations": [
+      { "id": 5, "name": "Singapore" },
+      { "id": 6, "name": "Canada" }
+    ],
+    "interests": [
+      { "id": 1, "name": "Tech" },
+      { "id": 6, "name": "Politics" },
+      { "id": 9, "name": "Legal" }
+    ],
+    "publications": [
+      { "id": 7, "name": "Associate Press" },
+      { "id": 8, "name": "Wall Street Journal" },
+      { "id": 3, "name": "The verge" }
+    ],
+    "wizikeyRating": 53.78
+  },
+  {
+    "name": "Yance Lortzing",
+    "id": 10,
+    "isVerifiedByWizikey": true,
+    "imageUrl": "https://avatars.githubusercontent.com/u/150330",
+    "locations": [
+      { "id": 6, "name": "Canada" },
+      { "id": 1, "name": "India" }
+    ],
+    "interests": [
+      { "id": 1, "name": "Tech" },
+      { "id": 9, "name": "Legal" }
+    ],
+    "publications": [
+      { "id": 8, "name": "Wall Street Journal" },
+      { "id": 10, "name": "Rolling Stones" }
+    ],
+    "wizikeyRating": 44
+  },
+  {
+    "name": "Germain Sealeaf",
+    "id": 11,
+    "isVerifiedByWizikey": false,
+    "imageUrl": "https://avatars.githubusercontent.com/u/150330",
+    "locations": [
+      { "id": 8, "name": "Iceland" },
+      { "id": 9, "name": "Finland" }
+    ],
+    "interests": [
+      { "id": 9, "name": "Legal" },
+      { "id": 10, "name": "Finance" }
+    ],
+    "publications": [
+      { "id": 9, "name": "Financial Times" },
+      { "id": 10, "name": "Rolling Stones" }
+    ],
+    "wizikeyRating": 0
+  },
+  {
+    "name": "Randa Visick",
+    "id": 12,
+    "isVerifiedByWizikey": true,
+    "imageUrl": "https://avatars.githubusercontent.com/u/150330",
+    "locations": [{ "id": 1, "name": "India" }],
+    "interests": [
+      { "id": 1, "name": "Tech" },
+      { "id": 4, "name": "Agritech" },
+      { "id": 10, "name": "Finance" }
+    ],
+    "publications": [
+      { "id": 8, "name": "Wall Street Journal" },
+      { "id": 9, "name": "Financial Times" }
+    ],
+    "wizikeyRating": 40.92
+  },
+  {
+    "name": "Carolyn Elgood",
+    "id": 13,
+    "isVerifiedByWizikey": true,
+    "imageUrl": "https://avatars.githubusercontent.com/u/150330",
+    "locations": [
+      { "id": 1, "name": "India" },
+      { "id": 2, "name": "Australia" },
+      { "id": 3, "name": "USA" }
+    ],
+    "interests": [
+      { "id": 1, "name": "Tech" },
+      { "id": 5, "name": "Fintech" }
+    ],
+    "publications": [
+      { "id": 1, "name": "Hindustan Times" },
+      { "id": 2, "name": "Time of India" },
+      { "id": 3, "name": "The verge" }
+    ],
+    "wizikeyRating": 72.83
+  },
+  {
+    "name": "Claudine Issett",
+    "id": 14,
+    "isVerifiedByWizikey": true,
+    "imageUrl": "https://avatars.githubusercontent.com/u/150330",
+    "locations": [
+      { "id": 2, "name": "Australia" },
+      { "id": 6, "name": "Canada" }
+    ],
+    "interests": [
+      { "id": 1, "name": "Tech" },
+      { "id": 3, "name": "Consumer Tech" },
+      { "id": 10, "name": "Finance" }
+    ],
+    "publications": [
+      { "id": 3, "name": "The verge" },
+      { "id": 4, "name": "The Economist" },
+      { "id": 7, "name": "Associate Press" }
+    ],
+    "wizikeyRating": 79.92
+  },
+  {
+    "name": "Ethe Hedgeman",
+    "id": 15,
+    "isVerifiedByWizikey": false,
+    "imageUrl": "https://avatars.githubusercontent.com/u/150330",
+    "locations": [{ "id": 1, "name": "India" }],
+    "interests": [
+      { "id": 1, "name": "Tech" },
+      { "id": 2, "name": "FMCG" },
+      { "id": 10, "name": "Finance" }
+    ],
+    "publications": [
+      { "id": 6, "name": "The Washington Post" },
+      { "id": 7, "name": "Associate Press" }
+    ],
+    "wizikeyRating": 0
+  },
+  {
+    "name": "Drake Rollitt",
+    "id": 16,
+    "isVerifiedByWizikey": true,
+    "imageUrl": "https://avatars.githubusercontent.com/u/150330",
+    "locations": [
+      { "id": 2, "name": "Australia" },
+      { "id": 10, "name": "Mexico" }
+    ],
+    "interests": [
+      { "id": 1, "name": "Tech" },
+      { "id": 2, "name": "FMCG" },
+      { "id": 10, "name": "Finance" }
+    ],
+    "publications": [
+      { "id": 1, "name": "Hindustan Times" },
+      { "id": 3, "name": "The verge" }
+    ],
+    "wizikeyRating": 39.89
+  },
+  {
+    "name": "Maible Frankiewicz",
+    "id": 17,
+    "isVerifiedByWizikey": true,
+    "imageUrl": "https://avatars.githubusercontent.com/u/150330",
+    "locations": [
+      { "id": 1, "name": "India" },
+      { "id": 2, "name": "Australia" }
+    ],
+    "interests": [
+      { "id": 1, "name": "Tech" },
+      { "id": 9, "name": "Legal" },
+      { "id": 10, "name": "Finance" }
+    ],
+    "publications": [
+      { "id": 1, "name": "Hindustan Times" },
+      { "id": 2, "name": "Time of India" },
+      { "id": 3, "name": "The verge" }
+    ],
+    "wizikeyRating": 50.22
+  },
+  {
+    "name": "Yorgo Crimp",
+    "id": 18,
+    "isVerifiedByWizikey": true,
+    "imageUrl": "https://avatars.githubusercontent.com/u/150330",
+    "locations": [
+      { "id": 1, "name": "India" },
+      { "id": 2, "name": "Australia" },
+      { "id": 4, "name": "Nepal" },
+      { "id": 10, "name": "Mexico" }
+    ],
+    "interests": [
+      { "id": 1, "name": "Tech" },
+      { "id": 10, "name": "Finance" }
+    ],
+    "publications": [
+      { "id": 10, "name": "Rolling Stones" },
+      { "id": 1, "name": "Hindustan Times" }
+    ],
+
+    "wizikeyRating": 76.52
+  },
+  {
+    "name": "Joye Danzey",
+    "id": 19,
+    "isVerifiedByWizikey": true,
+    "imageUrl": "https://avatars.githubusercontent.com/u/150330",
+    "locations": [
+      { "id": 3, "name": "USA" },
+      { "id": 10, "name": "Mexico" }
+    ],
+    "interests": [{ "id": 10, "name": "Finance" }],
+    "publications": [
+      { "id": 5, "name": "The Hindu" },
+      { "id": 10, "name": "Rolling Stones" }
+    ],
+    "wizikeyRating": 88.33
+  },
+  {
+    "name": "Wittie Eddis",
+    "id": 20,
+    "isVerifiedByWizikey": true,
+    "imageUrl": "https://avatars.githubusercontent.com/u/150330",
+    "locations": [{ "id": 5, "name": "Singapore" }],
+    "interests": [
+      { "id": 9, "name": "Legal" },
+      { "id": 10, "name": "Finance" }
+    ],
+    "publications": [
+      { "id": 5, "name": "The Hindu" },
+      { "id": 6, "name": "The Washington Post" },
+      { "id": 10, "name": "Rolling Stones" }
+    ],
+    "wizikeyRating": 30.9
+  }
+]

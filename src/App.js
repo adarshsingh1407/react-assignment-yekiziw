@@ -6,8 +6,8 @@ import {
 } from "react-router-dom";
 import "./App.css";
 import Header from "./components/common/Header";
-import JournalistDetail from "./components/Journalist/JournalistDetail";
-import JournalistList from "./components/Journalist/JournalistList";
+import JournalistDetail from "./containers/Journalist/JournalistDetail";
+import JournalistList from "./containers/Journalist/JournalistList";
 
 function App() {
   return (
